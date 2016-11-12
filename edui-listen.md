@@ -11,9 +11,9 @@ option:
 
 # Better Search Through Listening
 
-Hillel Arnold / [@helrond](http://twitter.com/helrond)
+Hillel Arnold / @helrond
 
-Lead Digital Archivist, Rockefeller Archive Center<
+Lead Digital Archivist, Rockefeller Archive Center
 
 <div class="hashtag">#edui-listen</div>
 <div class="left-corner"></div>
@@ -30,7 +30,7 @@ Lead Digital Archivist, Rockefeller Archive Center<
 
 ------
 
-## {data-background="img/hillcrest.jpg" data-background-transition="concave"} The dusty archives
+## The dusty archives {data-background="/img/hillcrest.jpg" data-background-transition="concave"}
 
 ------
 
@@ -38,7 +38,7 @@ Lead Digital Archivist, Rockefeller Archive Center<
 
 *   **Sibyl Schaefer** - Assistant Director, Head of Digital Programs
 *   **Patrick Galligan** - Assistant Digital Archivist
-*   **>Bonnie Gordon** - Assistant Digital Archivist
+*   **Bonnie Gordon** - Assistant Digital Archivist
 
 ------
 
@@ -52,7 +52,7 @@ Lead Digital Archivist, Rockefeller Archive Center<
 
 ------
 
-## {data-background="img/binders.jpg" data-background-transition="concave"} Binders!
+## Binders! {data-background="/img/binders.jpg" data-background-transition="concave"}
 
 ------
 
@@ -94,11 +94,11 @@ The proxy server received an invalid response from an upstream server.
 
 ------
 
-## ...especially for archivists.<
+## ...especially for archivists.
 
 ------
 
-## Feedback quality and frequency<
+## Feedback quality and frequency
 
 ------
 
@@ -106,8 +106,7 @@ The proxy server received an invalid response from an upstream server.
 
 ------
 
-## Diagnose, Resolve, Confirm
-
+## Diagnose, Resolve, Confirm  
 ## (rinse and repeat)
 
 ------
@@ -240,7 +239,7 @@ The proxy server received an invalid response from an upstream server.
 
 ------
 
-## {data-background="img/container-lists.jpg" data-background-transition="concave"} Container Lists
+## Container Lists {data-background="/img/container-lists.jpg" data-background-transition="concave"}
 
 ------
 
@@ -297,7 +296,6 @@ The proxy server received an invalid response from an upstream server.
 ------
 
 ## Test, test, test!
-
 ## Then test again.
 
 ------
@@ -327,7 +325,7 @@ The proxy server received an invalid response from an upstream server.
 
 ------
 
-## UI change = Organizational change<
+## UI change = Organizational change
 
 ------
 
@@ -343,7 +341,7 @@ The proxy server received an invalid response from an upstream server.
 
 ------
 
-## Get out (of your office)<
+## Get out (of your office)
 
 ------
 
@@ -355,11 +353,11 @@ The proxy server received an invalid response from an upstream server.
 
 ------
 
-## {data-background="img/searchy-hollow.jpg" data-background-transition="concave"} Searchy Hollow
+## Searchy Hollow {data-background="/img/searchy-hollow.jpg" data-background-transition="concave"}
 
 ------
 
-## {data-background="img/dimes.jpg" data-background-transition="concave"} DIMES
+## DIMES {data-background="/img/dimes.jpg" data-background-transition="concave"}
 
 ------
 

@@ -14,22 +14,17 @@ option:
 
 A static site generator for archival description
 
-<hr/>
-
 Hillel Arnold / @helrond
 
 <small>Head of Digital Programs, Rockefeller Archive Center</small>
 
+------
 
+`http://hillelarnold.com/staticAid/`
+`https://github.com/helrond/staticAid`
+`http://bit.ly/staticaid`
 
-
-#### `http://hillelarnold.com/staticAid/`
-
-#### `https://github.com/helrond/staticAid`
-
-#### `http://bit.ly/staticaid`
-
-
+------
 
 # Thanks!
 
@@ -41,95 +36,86 @@ Hillel Arnold / @helrond
 
 @trevorthornton
 
+------
 
+## What it is
+ArchivesSpace REST API  
+JSON  
+Jekyll templates  
+HTML
 
-##ArchivesSpace REST API
+------
 
-##JSON
+## API Endpoints
+*  `resources/`
+*  `resources/trees/`
+*  `archival_objects/`
+*  `agents/`
+*  `subjects/`
 
-##Jekyll templates
-
-##HTML
-
-
-
-##`GET resources/`
-
-##`GET resources/trees/`
-
-##`GET archival_objects/`
-
-##`GET agents/`
-
-##`GET subjects/`
-
-
+------
 
 #`makePages.py`
 
-
+------
 
 #`jekyll serve`
 
-
+------
 
 ## HTML pages
-Collections
-
-Archival objects
-
-Subjects
-
+Collections  
+Archival objects  
+Subjects  
 Agents  (people, family, corporate bodies)
 
+------
 
+## Cool things
+responsive!  
+schema.org!  
+fast!
 
-## responsive!
-## schema.org!
-## fast!
-
-
+------
 
 # THIS IS NOT PERFECT
 
-
+------
 
 ## No search
 
-
+------
 
 ## Not fancy
 
-
+------
 
 # Who cares?
 
-
+------
 
 ## Speed matters
 
-
+------
 
 ## Maintainability matters
 
-ArchivesSpace instance
-
-Python
-
+ArchivesSpace instance  
+Python  
 Github repository/Github pages
 
-
+------
 
 # `</xml>`
 
-
+------
 
 ## Version control for content
 
-
+------
 
 ## The right tool for the job
 
-
+------
 
 #Thanks!

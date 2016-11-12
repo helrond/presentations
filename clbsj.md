@@ -8,8 +8,8 @@ option:
   -progress: true
 ---
 
-### Archives as Sites of
-# Resistance, Liberation &amp; Creativity
+<h1><small>Archives as Sites of</small><br/>
+Resistance, Liberation &amp; Creativity</h1>
 
 ------
 
@@ -18,6 +18,9 @@ option:
 ------
 
 ## What archives are  
+
+------
+
 ## What archives can be
 
 ------
@@ -45,6 +48,9 @@ playing <span class="highlight">music</span> in a <span class="highlight">room</
 ------
 
 ## Who speaks, who is silent?
+
+------
+
 ## Why do we document, why do we save?
 
 ------
@@ -85,7 +91,7 @@ playing <span class="highlight">music</span> in a <span class="highlight">room</
 
 ------
 
-## Maintainers<
+## Maintainers
 
 ------
 
@@ -109,9 +115,8 @@ playing <span class="highlight">music</span> in a <span class="highlight">room</
 
 ------
 
-## Confront our complicity
-## Build trust at the margins
+## Confront our complicity / Build trust at the margins
 
 ------
 
-## Archives <span class="highlight">connect</span> humans across <span class="highlight">time</span> and <span class="highlight">space</span></h2>
+<h2>Archives <span class="highlight">connect</span> humans across <span class="highlight">time</span> and <span class="highlight">space</span></h2>
