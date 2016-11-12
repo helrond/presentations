@@ -18,7 +18,7 @@ option:
 
 ------
 
-<h1><span class="principle">hello!</span></h1>
+<h1><span class="principle">hello! </span></h1>
 
 ------
 
