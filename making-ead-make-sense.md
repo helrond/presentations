@@ -1,6 +1,7 @@
 ---
 title: Making EAD Make Sense
-css: "making-ead-make-sense"
+theme: blood
+css: making-ead-make-sense
 transition: convex
 option:
   -controls: false,
@@ -17,12 +18,11 @@ option:
 
 ------
 
-## So you have EAD.
-## <span class="emph">Now what?</emph>
+## So you have EAD. <span class="emph">Now what?</emph>
 
 ------
 
-## Finding aids {data-background="img/container-lists.jpg" data-background-transition="concave"}
+## Finding aids {data-background="/img/container-lists.jpg" data-background-transition="concave"}
 
 ------
 
@@ -40,12 +40,12 @@ Not suited to online discovery environments
 
 ------
 
-## <span class="white">The Dusty Archive</h2> {data-background="img/hillcrest.jpg" data-background-transition="concave"}
+## <span class="white">The Dusty Archive</span> {data-background="/img/hillcrest.jpg" data-background-transition="concave"}
 
 ------
 
 <style>.comment2 .comment:after { content: "Because XTF sounds way cooler than ETF"; }</style>
-## eXtensible Text Framework (XTF) {data-state="comment2 fadein}
+## eXtensible Text Framework (XTF) {data-state="comment2 fadein"}
 
 ------
 
@@ -57,9 +57,7 @@ Limited Discovery
 ------
 
 <style>.comment3 .comment:after { content: "It's okay, we all have problems."; }</style>
-## So you have problems. {data-state="comment3 fadein}
-
-## <span class="emph">Now what?</span>
+## So you have problems. <span class="emph">Now what?</span> {data-state="comment3 fadein"}
 
 ------
 
@@ -93,7 +91,7 @@ Clicks, scrolls, downloads, etc.
 
 ------
 
-## Show, but not view</h2>
+## Show, but not view
 ![more like this](img/more-like-this.png)
 
 ------
@@ -104,11 +102,11 @@ Clicks, scrolls, downloads, etc.
 ------
 
 <style>.comment8 .comment:after { content: "Just do it."; }</style>
-## Usability Testing {data-state="comment8 fadein}
+## Usability Testing {data-state="comment8 fadein"}
 
 ------
 
-## It's as easy as...</h2>
+## It's as easy as...
 
 1.  Write the test
 2.  Run the test
@@ -116,20 +114,16 @@ Clicks, scrolls, downloads, etc.
 
 ------
 
-## ...which is not all that easy.</h2>
+## ...which is not all that easy.
 
 ------
 
 <style>.comment7 .comment:after { content: "And again. No really, I mean it."; }</style>
-## Test, test, test! {data-state="comment7 fadein"}
-
-## <span class="emph">Then test again.</span>
+## Test, test, test! <span class="emph">Then test again.</span> {data-state="comment7 fadein"}
 
 ------
 
-## So you have tools.
-
-## <span class="emph">Now what?</span>
+## So you have tools. <span class="emph">Now what?</span>
 
 ------
 
@@ -281,7 +275,3 @@ Open Graph (Facebook)
 # Thank you!
 
 ## [bit.ly/nyac-ead](http://bit.ly/nyac-ead)
-
-------
-
-<div class="comment"></div>

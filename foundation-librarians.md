@@ -2,7 +2,6 @@
 title: "From Transfer to Access: Digital Records at the Rockefeller Archive Center"
 theme: night
 css: foundation-librarians
-transition:
 option:
   -controls: false,
   -progress: false,
@@ -18,7 +17,7 @@ option:
 
 ------
 
-<h1><span class="principle">hello! </span></h1>
+# <span class="principle">hello!</span>
 
 ------
 
@@ -34,7 +33,7 @@ option:
 
 ------
 
-<h1><span class="principle">scholars</span> <span class="process">&amp;</span> <span class="principle">history</span></h1>
+# <span class="principle">scholars</span> <span class="process">&amp;</span> <span class="principle">history</span>
 
 ------
 
@@ -49,22 +48,22 @@ option:
 
 ------
 
-<h2>it's about <span class="principle">more</span> than just you!</h2>
+## it's about <span class="principle">more</span> than just you!
 
 ------
 
-<h2><span class="principle">transparency</span> <span class="process">&amp;</span> <span class="principle">openness</span></h2>
+## <span class="principle">transparency</span> <span class="process">&amp;</span> <span class="principle">openness</span>
 
 ------
 
-<h2><span class="process">processes</span></h2>
+## <span class="process">processes</span>
 <p class="fragment roll-in">accessioning</p>
 <p class="fragment roll-in">arrangement and description</p>
 <p class="fragment roll-in">access</p>
 
 ------
 
-<h2><span class="process">the blue tunnel</span></h2>
+## <span class="process">the blue tunnel</span>
 ![the blue tunnel](img/blue-tunnel.gif)
 
 ------
@@ -77,23 +76,24 @@ option:
 
 ------
 
-<h2><span class="principle">principles</span> &rarr; <span class="process">processes</span> &rarr; <span class="tool">tools</span></h2>
+## <span class="principle">principles</span> &rarr; <span class="process">processes</span> &rarr; <span class="tool">tools</span>
 
 ------
 
-<h2><span class="process">accessioning and transfer</span></h2>
-<p>physical and intellectual control</p>
+## <span class="process">accessioning and transfer</span>
+
+physical and intellectual control
 
 ------
 
-<h2><span class="principle">principles</h2>
+## <span class="principle">principles
 <p class="fragment roll-in">authenticity</p>
 <p class="fragment roll-in">security</p>
 <p class="fragment roll-in">stability</p>
 
 ------
 
-<h2><span class="tool">tools</span></h2>
+## <span class="tool">tools</span>
 <p class="fragment roll-in">BagIt</p>
 <p class="fragment roll-in">transfer mechanism: DropBox, rsync, physical media</p>
 <p class="fragment roll-in">Archivematica</p>
@@ -104,8 +104,9 @@ option:
 
 ------
 
-<h2><span class="process">arrangement and description</span></h2>
-<p>represent context of creation and maintenance</p>
+## <span class="process">arrangement and description</span>
+
+represent context of creation and maintenance
 
 ------
 
@@ -128,8 +129,9 @@ option:
 
 ------
 
-<h2><span class="process">access</span></h2>
-<p>making our records discoverable, accessible, and reusable</p>
+## <span class="process">access</span>
+
+making our records discoverable, accessible, and reusable
 
 ------
 
@@ -167,7 +169,7 @@ option:
 
 ------
 
-<h2><span class="principle">principles</span> &rarr; <span class="process">processes</span> &rarr; <span class="tool">tools</span></h2>
+## <span class="principle">principles</span> &rarr; <span class="process">processes</span> &rarr; <span class="tool">tools</span>
 
 ------
 
