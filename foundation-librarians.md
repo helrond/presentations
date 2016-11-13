@@ -2,18 +2,22 @@
 title: "From Transfer to Access: Digital Records at the Rockefeller Archive Center"
 theme: night
 css: foundation-librarians
+fonts:
+- "Montserrat"
+- "Open+Sans"
+slide-level: 1
 option:
-  -controls: false,
-  -progress: false,
-  -history: true,
-  -center: true,
+- "controls: false"
+- "progress: false"
+- "history: true"
+- "center: true"
 ---
 
 <h1><span class="principle">From Transfer <br/>to Access</span></h1>
 <h3><span class="process">Digital Records at the <br/>Rockefeller Archive Center</span></h3>
-<p>
-	<small><span class="tool">Hillel Arnold, Lead Digital Archivist</span></small>
-</p>
+
+<small><span class="tool">Hillel Arnold, Lead Digital Archivist</span></small>
+
 
 ------
 

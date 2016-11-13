@@ -12,6 +12,7 @@
     
         <link href="data:text/css;charset=utf-8,%2Ereveal%20h1%2C%20%2Ereveal%20h2%2C%20%2Ereveal%20h3%2C%20%2Ereveal%20h4%2C%20%2Ereveal%20h5%2C%20%2Ereveal%20h6%20%7Btext%2Dtransform%3A%20none%3B%20font%2Dfamily%3A%20%27Raleway%27%2C%20Helvetica%2C%20sans%2Dserif%3B%7D%0A%2Ereveal%20section%20img%20%7Bborder%3A%20none%3Bbox%2Dshadow%3A%20none%3Bmargin%3A%200%3B%7D%0A%2Estrikethrough%20%7Btext%2Ddecoration%3A%20line%2Dthrough%3B%7D%0A%2Ereveal%20blockquote%20%7B%0Afont%2Dstyle%3A%20normal%3B%0Abox%2Dshadow%3A%20none%3B%0Awidth%3A100%25%0A%7D%0Ablockquote%3Abefore%20%7B%0Acolor%3A%20%23ccc%3B%0Acontent%3A%20%22%5C201C%22%3B%0Afont%2Dsize%3A%2030rem%3B%0Aline%2Dheight%3A%2020rem%3B%0Amargin%2Dright%3A%20%2D30rem%3B%0Afloat%3A%20left%3B%0A%7D%0A%0A" rel="stylesheet">
     
+    
     <link href="data:text/css;charset=utf-8,%0A%2Ehljs%20%7B%0Adisplay%3A%20block%3B%0Aoverflow%2Dx%3A%20auto%3B%0Apadding%3A%200%2E5em%3B%0Abackground%3A%20%233f3f3f%3B%0Acolor%3A%20%23dcdcdc%3B%0A%7D%0A%2Ehljs%2Dkeyword%2C%0A%2Ehljs%2Dselector%2Dtag%2C%0A%2Ehljs%2Dtag%20%7B%0Acolor%3A%20%23e3ceab%3B%0A%7D%0A%2Ehljs%2Dtemplate%2Dtag%20%7B%0Acolor%3A%20%23dcdcdc%3B%0A%7D%0A%2Ehljs%2Dnumber%20%7B%0Acolor%3A%20%238cd0d3%3B%0A%7D%0A%2Ehljs%2Dvariable%2C%0A%2Ehljs%2Dtemplate%2Dvariable%2C%0A%2Ehljs%2Dattribute%20%7B%0Acolor%3A%20%23efdcbc%3B%0A%7D%0A%2Ehljs%2Dliteral%20%7B%0Acolor%3A%20%23efefaf%3B%0A%7D%0A%2Ehljs%2Dsubst%20%7B%0Acolor%3A%20%238f8f8f%3B%0A%7D%0A%2Ehljs%2Dtitle%2C%0A%2Ehljs%2Dname%2C%0A%2Ehljs%2Dselector%2Did%2C%0A%2Ehljs%2Dselector%2Dclass%2C%0A%2Ehljs%2Dsection%2C%0A%2Ehljs%2Dtype%20%7B%0Acolor%3A%20%23efef8f%3B%0A%7D%0A%2Ehljs%2Dsymbol%2C%0A%2Ehljs%2Dbullet%2C%0A%2Ehljs%2Dlink%20%7B%0Acolor%3A%20%23dca3a3%3B%0A%7D%0A%2Ehljs%2Ddeletion%2C%0A%2Ehljs%2Dstring%2C%0A%2Ehljs%2Dbuilt%5Fin%2C%0A%2Ehljs%2Dbuiltin%2Dname%20%7B%0Acolor%3A%20%23cc9393%3B%0A%7D%0A%2Ehljs%2Daddition%2C%0A%2Ehljs%2Dcomment%2C%0A%2Ehljs%2Dquote%2C%0A%2Ehljs%2Dmeta%20%7B%0Acolor%3A%20%237f9f7f%3B%0A%7D%0A%2Ehljs%2Demphasis%20%7B%0Afont%2Dstyle%3A%20italic%3B%0A%7D%0A%2Ehljs%2Dstrong%20%7B%0Afont%2Dweight%3A%20bold%3B%0A%7D%0A" rel="stylesheet">
 
     <!-- Printing and PDF exports -->
@@ -158,10 +159,11 @@
     <script>
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
-        //         //   true,
-        //         history:true,
-        controls:true,
-
+                  controls: true,
+                  progress: true,
+                  history: true,
+                  center: true,
+        
         // default/cube/page/concave/zoom/linear/fade/none
                 transition: Reveal.getQueryHash().transition || 'slide',
         

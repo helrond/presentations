@@ -2,11 +2,15 @@
 title: Better Search Through Listening
 theme: simple
 css: "edui-listen"
+fonts:
+- "News+Cycle"
+- "Lato"
 transition: default
+slide-level: 1
 option:
-  -controls: true
-  -progress: true
-  -history: true
+- "controls: true"
+- "progress: true"
+- "history: true"
 ---
 
 # Better Search Through Listening

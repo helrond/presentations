@@ -3,11 +3,12 @@ title: "staticAid: a static site generator for archival description"
 theme: white
 css: introducing-staticaid
 transition: slide
+slide-level: 1
 option:
-  -controls: true,
-  -progress: true,
-  -history: true,
-  -center: true,
+- "controls: true"
+- "progress: true"
+- "history: true"
+- "center: true"
 ---
 
 # staticAid
