@@ -26,7 +26,7 @@ Hillel Arnold / @helrond
 
 ------
 
-<section data-background="/img/Woody-Guthrie.jpg" data-caption="Woody Guthrie. Daily Worker.">
+<section data-background="img/Woody-Guthrie.jpg" data-caption="Woody Guthrie. Daily Worker.">
 </section>
 
 ------
@@ -46,17 +46,17 @@ Cyclical and dialogic
 
 ------
 
-<section data-background="/img/migrant-worker.jpg" data-caption="Toward Los Angeles, Calif. March 1937. Dorothea Lange, Library of Congress.">
+<section data-background="img/migrant-worker.jpg" data-caption="Toward Los Angeles, Calif. March 1937. Dorothea Lange, Library of Congress.">
 </section>
 
 ------
 
-<section data-background="/img/jackhammer.jpg" data-caption="Construction workers, Grand Coulee Dam, Columbia River, Washington. 1936-1946. Library of Congress.">
+<section data-background="img/jackhammer.jpg" data-caption="Construction workers, Grand Coulee Dam, Columbia River, Washington. 1936-1946. Library of Congress.">
 </section>
 
 ------
 
-<section data-background="/img/first-person.jpg" data-caption="Children of migratory pea pickers in Brawley camp. California. February 1939. Dorothea Lange, Library of Congress.">
+<section data-background="img/first-person.jpg" data-caption="Children of migratory pea pickers in Brawley camp. California. February 1939. Dorothea Lange, Library of Congress.">
 </section>
 
 ------
@@ -72,12 +72,12 @@ Cyclical and dialogic
 
 ------
 
-<section data-background="/img/bonneville.jpg" data-caption="Bonneville Dam, Multnomah County, OR. Undated. Library of Congress.">
+<section data-background="img/bonneville.jpg" data-caption="Bonneville Dam, Multnomah County, OR. Undated. Library of Congress.">
 </section>
 
 ------
 
-<section data-background="/img/coney-island-beach.jpg" data-caption="Coney Island Beach. Weegee, Metropolitan Museum of Art.">
+<section data-background="img/coney-island-beach.jpg" data-caption="Coney Island Beach. Weegee, Metropolitan Museum of Art.">
 </section>
 
 ------
@@ -96,7 +96,7 @@ Cyclical and dialogic
 
 ------
 
-<section data-background="/img/personas.jpg" data-caption="Lester Balog, Woody Guthrie Publications.">
+<section data-background="img/personas.jpg" data-caption="Lester Balog, Woody Guthrie Publications.">
 </section>
 
 ------
@@ -155,7 +155,7 @@ Cyclical and dialogic
 
 ------
 
-<section data-background="/img/marjorie.jpg" data-caption="Marjorie Mazia Guthrie. Toronto Star.">
+<section data-background="img/marjorie.jpg" data-caption="Marjorie Mazia Guthrie. Toronto Star.">
 </section>
 
 ------
