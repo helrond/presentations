@@ -83,7 +83,7 @@ Cyclical and dialogic
 ------
 
 <section class="category">
- <h1>Methodologie s of Maintenance</h1>
+ <h1>Methodologies of Maintenance</h1>
  <p>iteration, improvisation &amp; performance</p>
 </section>
 
